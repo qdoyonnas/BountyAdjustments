@@ -1,0 +1,12 @@
+{
+  "id":"munchkin9_bounty_adjustments",
+  "name":"Bounty Adjustments",
+  "author":"Munchkin9",
+  "totalConversion":"false",
+  "utility":"true",
+  "version": {"major":1, "minor":0, "patch":0},
+  "description":"Adjusts bounty rewards to incentivize bounty hunting as a form of income.",
+  "gameVersion":"0.95.1a-RC6",
+  "jars":["jars/BountyAdjustments.jar"],
+  "modPlugin": "munchkin9.bountyadjustments"
+}
