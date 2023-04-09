@@ -3,5 +3,3 @@
 Adjusts bounty rewards.
 
 Author: Munchkin9
-
-Lowtech Tempest: Selkie

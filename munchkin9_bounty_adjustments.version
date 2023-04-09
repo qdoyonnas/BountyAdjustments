@@ -1,0 +1,11 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/qdoyonnas/BountyAdjustments/master/munchkin9_bounty_adjustments.version",
+    "modName":"Bounty Adjustments",
+    "modThreadId":0,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+    },
+}
